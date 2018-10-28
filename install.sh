@@ -43,9 +43,7 @@ npm install -g npm@latest
 
 pm2 init
 
-git clone https://github.com/leshacat/EasyNOMP.git
-
-cd BootNOMP
+git pull
 
 npm install
 
