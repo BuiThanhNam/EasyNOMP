@@ -69,7 +69,7 @@
         "sshpk": "^1.15.1",
         "stratum-pool": "git://github.com/btngh/node-stratum-pool.git",
         "winston": "3.0.0-rc2",
-        "winston-daily-rotate-file": "^3.3.3"
+        "winston-daily-rotate-file": "^3.0.0"
     },
     "engines": {
         "node": ">=8.1.4"
