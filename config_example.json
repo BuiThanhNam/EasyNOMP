@@ -23,7 +23,12 @@
 
     "cliHost": "127.0.0.1",
     "cliPort": 17117,
-
+     
+    "blockNotifyListener": {
+    "enabled": true,
+    "port": 17117
+      },
+    
     "clustering": {
         "enabled": true,
         "forks": "auto"
