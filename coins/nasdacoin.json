@@ -1,0 +1,7 @@
+{
+    "name": "Nasdacoin",
+    "symbol": "NSD",
+    "algorithm": "scrypt",
+    "peerMagic": "b4f4e2e5",
+    "peerMagicTestnet": "cdf2c0ef"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Sibcoin",
+    "symbol": "SIB",
+    "algorithm": "x11ghost",
+    "peerMagic": "bf0c6bbd",
+    "peerMagicTestnet": "cee2caff"
+}
